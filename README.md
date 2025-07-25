@@ -24,7 +24,7 @@ A machine learning project built in Python to predict house prices based on vari
 ### 1. Clone this repository
 
 ```bash
-git clone [https://github.com/samwithwicky/house-price-predictor.git](https://github.com/samwithwicky/house-price-predictor.git)
+git clone https://github.com/samwithwicky/house-price-predictor.git
 cd house-price-predictor
 ```
 
